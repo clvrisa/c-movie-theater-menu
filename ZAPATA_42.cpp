@@ -1,6 +1,4 @@
 //Assignment 4.2 Theater Statistics
-// CS 10A Section 0489
-// Clarisa Zapata
 // Write a program for a theater that will keep track of how many people in each of 5 age categories attended a particular movie.
 
 #include <iostream>
